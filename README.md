@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Long Ta 👋
 
-<!--
-**LongTaDuy/LongTaDuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at Denison University interested in Software Engineering, backend systems, cloud infrastructure, and fintech applications.
 
-Here are some ideas to get you started:
+## What I'm focused on
+- Building backend and full-stack applications
+- Learning system design and cloud deployment
+- Exploring machine learning and quantitative finance projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, JavaScript, SQL, Java
+- Backend: FastAPI, Node.js
+- Frontend: React, HTML, CSS
+- Databases: PostgreSQL, MySQL, Firebase
+- Tools: Docker, Git, GitHub, Redis
+- Data/ML: Pandas, NumPy, scikit-learn, XGBoost, Random Forest
+
+## Featured Projects
+- **Cloud Scheduler System** — FastAPI + PostgreSQL + Redis + Docker
+- **Full-Stack Web Application** — React + Firebase
+- **VN30 Volatility Forecasting** — Econometric and Machine Learning models for stock market volatility prediction
+
+## Currently Working On
+- Improving production-style backend projects
+- Strengthening SWE internship portfolio
+- Building more finance-related software projects
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/longta/]
