@@ -14,7 +14,7 @@ Currently building scalable systems, ML projects, and fintech applications.
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ## Languages
 
