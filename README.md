@@ -1,6 +1,6 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I'm Long Ta, an undergraduate student at Denison University majoring in Applied Mathematics & Financial Economics.
+I'm Long Ta, an undergraduate student at Denison University majoring in Applied Mathematics & Computer Science.
 
 I'm interested in:
 
