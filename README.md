@@ -10,8 +10,6 @@ I'm interested in:
 * Machine Learning
 * Quantitative Finance
 
-Currently building scalable systems, ML projects, and fintech applications.
-
 ---
 
 # Tech Stack
